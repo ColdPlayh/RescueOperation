@@ -5,17 +5,15 @@ ___
  **~~main/:可运行文件~~**（暂未上传）
 
 当前分支为: `main`
-## 二、展示视频
-* 百度网盘：https://pan.baidu.com/s/1dI1sAxN3mnT-u1m2DYzmAA?pwd=fesv   <br>
-* bilibili：https://www.bilibili.com/video/BV195xqeEE9v/___
- ## 三、介绍
+
+ ## 二、介绍
 ### 1、功能
 营救行动是一款LowPoly风格的FPS游戏。
 <br>游戏第一关为营救模式，玩家需击败敌人救出人质。游戏第二关为保护模式，添加了塔防元素，玩家需要建造防御塔击败敌人。
 
 ### 2、展示视频
-  * 百度网盘：https://pan.baidu.com/s/1TSTFUuZDdiVJhCFc0KTtdQ?pwd=f9cx
-  * BiliBli：
+* 百度网盘：https://pan.baidu.com/s/1dI1sAxN3mnT-u1m2DYzmAA?pwd=fesv   <br>
+* bilibili：https://www.bilibili.com/video/BV195xqeEE9v/___
 ### 3、简要介绍
 
 #### （1）移动、射击
