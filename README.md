@@ -7,5 +7,5 @@ ___
 
 **当前分支为** `main`
 ## 二、展示视频
-* 百度网盘：<br>
-* bilibili：
+* 百度网盘：https://pan.baidu.com/s/1dI1sAxN3mnT-u1m2DYzmAA?pwd=fesv   <br>
+* bilibili：https://www.bilibili.com/video/BV195xqeEE9v/
