@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ab99a0c6834a45d1b7fe7c9f62bea481
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UIHpBarPreFab: {fileID: 6372912675566726148, guid: 7ed0f2a5edd041f409761566591e72a4,
+      type: 3}
+  - hpBarPonit: {instanceID: 0}
+  - demageText: {fileID: 1311794731991797296, guid: e7fce5d7db9e9ba4f887b8ab194e9887,
+      type: 3}
+  - demageTextPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

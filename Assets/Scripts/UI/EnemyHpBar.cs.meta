@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c9a9f2793b81dc94ab93ccca98bd10d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enmeyUIHpBar: {fileID: 6372912675566726148, guid: 583d6edf354fa8f40b3d47891f2a9150,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

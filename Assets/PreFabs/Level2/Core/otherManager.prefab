@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7338107141413572102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7338107141413572103}
+  - component: {fileID: 2764091022342902220}
+  - component: {fileID: 2764091022342902221}
+  m_Layer: 0
+  m_Name: otherManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7338107141413572103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7338107141413572102}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2764091022342902220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7338107141413572102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151bd071d5adcf645aafd279fe2e4b72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCanvas: {fileID: 0}
+  playerControlCanvas: {fileID: 0}
+  playerAndWeaponCanvas: {fileID: 0}
+  settingCanvas: {fileID: 0}
+  scopeCanvas: {fileID: 0}
+  otherCanvas: {fileID: 0}
+  PickUpPanel: {fileID: 0}
+  PickUpButton: {fileID: 0}
+  mainWeaponImage: {fileID: 0}
+  secondaryWeaponImage: {fileID: 0}
+  aimPoint: {fileID: 0}
+  UICamera: {fileID: 0}
+  GameOverCanvas: {fileID: 2507553861108618942, guid: 71de19878104efd4081b9e4241aa74dd,
+    type: 3}
+  circleProcessBar: {fileID: 6021124912295841917, guid: ec5bfc3ff4194a54cbb87dd960a61d18,
+    type: 3}
+  rescueHostageBtn: {fileID: 1648760497655497928, guid: 325bd3c8f9c890941b1cc7363afb98fc,
+    type: 3}
+  PauseCanvas: {fileID: 3953526685599964713, guid: 419c39dc838545e4abd09a7197f2c3a8,
+    type: 3}
+  fade: {fileID: 0}
+--- !u!114 &2764091022342902221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7338107141413572102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 944c17b17a57460bb80daee40550c3bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flashBang: {fileID: 8270453049979652685, guid: 94d3203b272ee984a803ea590a7a441d,
+    type: 3}
+  grenade: {fileID: 114853094415237424, guid: 7b04fe350ed10a741a1e245447860d9e, type: 3}
+  wepaons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  myWeapons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  mainWeapon: {fileID: 0}
+  secondaryWeapon: {fileID: 0}
+  currWeapon: {fileID: 0}
+  PickUpWepaon: {fileID: 0}
